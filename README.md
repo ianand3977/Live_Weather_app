@@ -2,7 +2,9 @@
 
 This is a simple live weather app that allows users to check the current weather conditions for any city. The app uses the OpenWeatherMap API to fetch and display weather data.
 
-![image](https://github.com/user-attachments/assets/d494fbd4-7f33-4bc9-9dc4-2304614d8446)
+
+![image](https://github.com/user-attachments/assets/fffc3a7d-49fd-42d9-ba2d-5bc131465aa5)
+
 
 ## Features
 
