@@ -38,24 +38,6 @@ This is a simple live weather app that allows users to check the current weather
 
 4. Enter the name of the city you want to check the weather for in the search box and click the search button.
 
-## Project Structure
-
-weather-app/
-│
-├── images/
-│ ├── clouds.png
-│ ├── clear.png
-│ ├── rain.png
-│ ├── drizzle.png
-│ ├── mist.png
-│ ├── snow.png
-│ ├── humidity.png
-│ ├── wind.png
-│ └── search.png
-│
-├── style.css
-└── index.html
-
 ## API Key
 
 The app uses the OpenWeatherMap API to fetch weather data. You need to get an API key from [OpenWeatherMap](https://openweathermap.org/api) and replace the `apiKey` variable in the `index.html` file with your own API key.
@@ -63,10 +45,6 @@ The app uses the OpenWeatherMap API to fetch weather data. You need to get an AP
 ```javascript
 const apiKey = "YOUR_API_KEY";
 
-Contributing
+##Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
-
-License
-This project is licensed under the MIT License.
-
 Make sure to update the repository URL and any other specific information as needed. You can place this `README.md` file in the root of your project directory.
