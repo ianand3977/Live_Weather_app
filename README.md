@@ -25,13 +25,13 @@ This is a simple live weather app that allows users to check the current weather
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/ianand3977/Live_Weather_app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd weather-app
+    cd Live_Weather_app
     ```
 
 3. Open `index.html` in your preferred browser.
