@@ -42,9 +42,9 @@ This is a simple live weather app that allows users to check the current weather
 
 The app uses the OpenWeatherMap API to fetch weather data. You need to get an API key from [OpenWeatherMap](https://openweathermap.org/api) and replace the `apiKey` variable in the `index.html` file with your own API key.
 
-```javascript
-const apiKey = "YOUR_API_KEY";
+    ```javascript
+    const apiKey = "YOUR_API_KEY";
 
-##Contributing
+## Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 Make sure to update the repository URL and any other specific information as needed. You can place this `README.md` file in the root of your project directory.
